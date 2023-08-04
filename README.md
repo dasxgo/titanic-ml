@@ -1,2 +1,5 @@
-# titanic_arboll_decision
-Árbol de decisión Titanic
+# Titanic
+Machine learning model
+
+## Use
+- Decision tree
