@@ -1,5 +1,5 @@
 # Titanic
 Machine learning model
 
-## Use
+## **Features**
 - Decision tree
